@@ -15,6 +15,6 @@ _ECE391's HELL_
 ![a563a992edfd3fb1e2a772f678380a3](https://github.com/Wanyuxiang-code/Wanyuxiang-code.github.io/assets/145841723/64721116-2016-4583-8056-ddf24526a956)
 
 
-![220] (./1.png)
+![220](1.png)
 > PhiloCoffee Club
 
