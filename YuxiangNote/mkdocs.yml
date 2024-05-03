@@ -6,3 +6,4 @@ theme:
     tabs: true
 nav:
   - 'Index': index.md
+  - 'Notes': C_notes.md
