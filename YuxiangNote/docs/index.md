@@ -1,6 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Yuxiang's Notepage
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Intro
+
+>**Let's begin a fantastic CS journey**
 
 ## Commands
 
